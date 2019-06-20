@@ -15,4 +15,5 @@ git tag -d v0.1
 查看某版本所修改的内容
 git show v0.1
 
-
+删除一个分支
+git branch -d [分支名]
